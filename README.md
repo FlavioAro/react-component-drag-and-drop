@@ -6,7 +6,7 @@ Don't forget to <a href="https://www.youtube.com/NerdAutodidata?sub_confirmation
 
 # Live Demo
 
-⚡️ [Try a live demo](https://alexkrkn.github.io/react-drag-and-drop/)
+⚡️ [Try a live demo](https://www.youtube.com/NerdAutodidata)
 
 # Run locally
 
